@@ -1,8 +1,7 @@
 name: rain_test_pkg
 description: This is a new Flutter package project. It's my first flutter package for study. only use test.
 version: 0.0.1
-author: Rain.xia <406330691@qq.com>
-homepage:
+homepage: https://github.com/xjjrain2015/rain_test_pkg
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
